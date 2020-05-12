@@ -3,7 +3,7 @@ Description:
 Usage:
 	Hot Keys: 
 		` - on\off
-		q - off 
+		q - quit
 		w - up 
 		d - down 
 		a - left 
